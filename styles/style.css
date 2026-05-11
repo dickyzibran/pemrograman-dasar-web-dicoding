@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Comic Sans Custom";
-  src: url("./fonts/ComicRelief-Bold.ttf") format("truetype");
+  src: url("../fonts/ComicRelief-Bold.ttf") format("truetype");
 }
 
 body {
